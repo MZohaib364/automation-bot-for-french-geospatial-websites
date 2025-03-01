@@ -12,3 +12,4 @@ This project is a Python-based automation bot designed to interact with five Fre
   - [e-PLU Martinique](http://e-plu-martinique.com): An ArcGIS web application related to urban planning in Martinique.
 - Utilizes Selenium for web automation.
 - Features a Tkinter-based GUI for user input.
+- Automatically downloads pdfs to your downloads directory.
