@@ -10,6 +10,6 @@ This project is a Python-based automation bot designed to interact with five Fre
   - [PPRN Martinique](http://www.pprn972.fr/carto/web/): Provides access to natural risk prevention plans for Martinique.
   - [ERRIAL](https://errial.georisques.gouv.fr/#/): Allows users to quickly and easily assess the risks associated with their property.
   - [e-PLU Martinique](http://e-plu-martinique.com): An ArcGIS web application related to urban planning in Martinique.
-- Utilizes Selenium for web automation.
+- Utilizes Selenium & Beautiful Soup for web automation.
 - Features a Tkinter-based GUI for user input.
 - Automatically downloads pdfs to your downloads directory.
