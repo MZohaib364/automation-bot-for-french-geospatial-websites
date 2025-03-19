@@ -1,4 +1,4 @@
-# automation-bot-for-french-geospatial-websites
+# Automation-Bot-for-french-geospatial-websites
 
 This project is a Python-based automation bot designed to interact with five French geospatial websites. It automates the process of retrieving relevant PDFs based on user-provided input.
 
